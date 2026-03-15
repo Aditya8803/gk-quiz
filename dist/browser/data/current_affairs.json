@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "India's G20 Presidency was in which year?",
+    "options": ["2021", "2022", "2023", "2024"],
+    "answer": "2023"
+  },
+  {
+    "id": 2,
+    "question": "Which country hosted the COP28 Climate Conference?",
+    "options": ["Saudi Arabia", "UAE", "Qatar", "Egypt"],
+    "answer": "UAE"
+  },
+  {
+    "id": 3,
+    "question": "India's Chandrayaan-3 successfully landed on the Moon in which year?",
+    "options": ["2021", "2022", "2023", "2024"],
+    "answer": "2023"
+  },
+  {
+    "id": 4,
+    "question": "Who won the Nobel Prize in Literature 2023?",
+    "options": ["Annie Ernaux", "Jon Fosse", "Olga Tokarczuk", "Peter Handke"],
+    "answer": "Jon Fosse"
+  },
+  {
+    "id": 5,
+    "question": "India launched its first solar observatory mission named?",
+    "options": ["Surya-1", "Aditya-L1", "Sol-1", "Suryanamaskara"],
+    "answer": "Aditya-L1"
+  },
+  {
+    "id": 6,
+    "question": "Which edition of the ICC Cricket World Cup was held in India in 2023?",
+    "options": ["11th", "12th", "13th", "14th"],
+    "answer": "13th"
+  },
+  {
+    "id": 7,
+    "question": "The Viksit Bharat@2047 initiative aims for India to become a developed nation by?",
+    "options": ["2035", "2040", "2047", "2050"],
+    "answer": "2047"
+  },
+  {
+    "id": 8,
+    "question": "Which city hosted the 2023 SCO Summit?",
+    "options": ["Delhi", "Mumbai", "Chennai", "Kolkata"],
+    "answer": "Delhi"
+  },
+  {
+    "id": 9,
+    "question": "Operation Kaveri was launched to evacuate Indians from which country?",
+    "options": ["Libya", "Ukraine", "Sudan", "Afghanistan"],
+    "answer": "Sudan"
+  },
+  {
+    "id": 10,
+    "question": "India's UPI payment system crossed how many billion transactions monthly in 2023?",
+    "options": ["5 billion", "8 billion", "10 billion", "12 billion"],
+    "answer": "10 billion"
+  }
+]

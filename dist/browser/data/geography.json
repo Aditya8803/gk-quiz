@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Which is the longest river in India?",
+    "options": ["Yamuna", "Godavari", "Ganga", "Krishna"],
+    "answer": "Ganga"
+  },
+  {
+    "id": 2,
+    "question": "Which mountain range separates India from China?",
+    "options": ["Aravalli", "Vindhya", "Himalayas", "Western Ghats"],
+    "answer": "Himalayas"
+  },
+  {
+    "id": 3,
+    "question": "Which is the smallest state in India by area?",
+    "options": ["Sikkim", "Goa", "Tripura", "Manipur"],
+    "answer": "Goa"
+  },
+  {
+    "id": 4,
+    "question": "The Tropic of Cancer passes through how many Indian states?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "id": 5,
+    "question": "Which is the highest peak in India?",
+    "options": ["Nanda Devi", "K2", "Kangchenjunga", "Mount Everest"],
+    "answer": "Kangchenjunga"
+  },
+  {
+    "id": 6,
+    "question": "The Chilika Lake is located in which state?",
+    "options": ["West Bengal", "Andhra Pradesh", "Odisha", "Tamil Nadu"],
+    "answer": "Odisha"
+  },
+  {
+    "id": 7,
+    "question": "Which strait separates India from Sri Lanka?",
+    "options": ["Palk Strait", "Hormuz Strait", "Malacca Strait", "Dover Strait"],
+    "answer": "Palk Strait"
+  },
+  {
+    "id": 8,
+    "question": "The Thar Desert is located in which Indian state?",
+    "options": ["Gujarat", "Rajasthan", "Haryana", "Punjab"],
+    "answer": "Rajasthan"
+  },
+  {
+    "id": 9,
+    "question": "Which river is known as the 'Sorrow of Bihar'?",
+    "options": ["Son", "Gandak", "Kosi", "Ghaghara"],
+    "answer": "Kosi"
+  },
+  {
+    "id": 10,
+    "question": "India has the world's largest delta formed by which rivers?",
+    "options": ["Ganga and Brahmaputra", "Indus and Jhelum", "Krishna and Godavari", "Narmada and Tapti"],
+    "answer": "Ganga and Brahmaputra"
+  }
+]

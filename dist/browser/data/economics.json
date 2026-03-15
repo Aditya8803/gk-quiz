@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "Which is the apex bank of India?",
+    "options": ["State Bank of India", "NABARD", "Reserve Bank of India", "SIDBI"],
+    "answer": "Reserve Bank of India"
+  },
+  {
+    "id": 2,
+    "question": "GDP stands for?",
+    "options": ["Gross Domestic Product", "General Domestic Production", "Gross Development Plan", "General Development Product"],
+    "answer": "Gross Domestic Product"
+  },
+  {
+    "id": 3,
+    "question": "India's Five Year Plans were drafted by which body?",
+    "options": ["Finance Commission", "Planning Commission", "NITI Aayog", "Cabinet Committee"],
+    "answer": "Planning Commission"
+  },
+  {
+    "id": 4,
+    "question": "The Green Revolution in India was primarily associated with which crop?",
+    "options": ["Rice", "Wheat", "Pulses", "Sugarcane"],
+    "answer": "Wheat"
+  },
+  {
+    "id": 5,
+    "question": "Which bank was established first in India?",
+    "options": ["Bank of Hindustan", "State Bank of India", "Bank of Madras", "Imperial Bank of India"],
+    "answer": "Bank of Hindustan"
+  },
+  {
+    "id": 6,
+    "question": "The NITI Aayog replaced which commission?",
+    "options": ["Finance Commission", "Planning Commission", "Election Commission", "Pay Commission"],
+    "answer": "Planning Commission"
+  },
+  {
+    "id": 7,
+    "question": "Which is the largest stock exchange in India?",
+    "options": ["BSE", "NSE", "MSE", "CSE"],
+    "answer": "NSE"
+  },
+  {
+    "id": 8,
+    "question": "GST in India was implemented from which date?",
+    "options": ["1 April 2017", "1 July 2017", "1 January 2017", "15 August 2017"],
+    "answer": "1 July 2017"
+  },
+  {
+    "id": 9,
+    "question": "Which is the highest denomination note currently in circulation in India?",
+    "options": ["Rs 500", "Rs 1000", "Rs 2000", "Rs 5000"],
+    "answer": "Rs 2000"
+  },
+  {
+    "id": 10,
+    "question": "SEBI was established in which year?",
+    "options": ["1988", "1992", "1990", "1995"],
+    "answer": "1988"
+  }
+]
