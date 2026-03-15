@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "NG_CLI_ANALYTICS=false ng serve --port ${PORT:-22626} --host 0.0.0.0 --allowed-hosts all",
-    "build": "ng build",
+    "build": "npm install @angular/cli && npm run build",
     "typecheck": "tsc -p tsconfig.json --noEmit"
   },
   "dependencies": {
