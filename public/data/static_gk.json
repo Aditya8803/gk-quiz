@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "What is the national animal of India?",
+    "options": ["Lion", "Elephant", "Bengal Tiger", "Leopard"],
+    "answer": "Bengal Tiger"
+  },
+  {
+    "id": 2,
+    "question": "Which is the national bird of India?",
+    "options": ["Sparrow", "Peacock", "Flamingo", "Great Indian Bustard"],
+    "answer": "Peacock"
+  },
+  {
+    "id": 3,
+    "question": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "answer": "Canberra"
+  },
+  {
+    "id": 4,
+    "question": "How many countries are members of the United Nations?",
+    "options": ["193", "185", "197", "200"],
+    "answer": "193"
+  },
+  {
+    "id": 5,
+    "question": "The Nobel Peace Prize is awarded in which city?",
+    "options": ["Stockholm", "Copenhagen", "Oslo", "Helsinki"],
+    "answer": "Oslo"
+  },
+  {
+    "id": 6,
+    "question": "The headquarters of the International Monetary Fund (IMF) is located in?",
+    "options": ["New York", "Geneva", "Washington D.C.", "London"],
+    "answer": "Washington D.C."
+  },
+  {
+    "id": 7,
+    "question": "Which is the smallest country in the world by area?",
+    "options": ["Monaco", "San Marino", "Vatican City", "Liechtenstein"],
+    "answer": "Vatican City"
+  },
+  {
+    "id": 8,
+    "question": "What is the national flower of India?",
+    "options": ["Rose", "Sunflower", "Jasmine", "Lotus"],
+    "answer": "Lotus"
+  },
+  {
+    "id": 9,
+    "question": "The FIFA World Cup is held every how many years?",
+    "options": ["2 years", "3 years", "4 years", "5 years"],
+    "answer": "4 years"
+  },
+  {
+    "id": 10,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Jupiter", "Venus", "Saturn", "Mars"],
+    "answer": "Mars"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "The Constitution of India came into effect on which date?",
+    "options": ["15 August 1947", "26 January 1950", "26 November 1949", "2 October 1950"],
+    "answer": "26 January 1950"
+  },
+  {
+    "id": 2,
+    "question": "How many Fundamental Rights are provided in the Indian Constitution?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "id": 3,
+    "question": "Who is the constitutional head of India?",
+    "options": ["Prime Minister", "Chief Justice", "President", "Speaker of Lok Sabha"],
+    "answer": "President"
+  },
+  {
+    "id": 4,
+    "question": "The concept of 'Basic Structure' of the Constitution was established by which case?",
+    "options": ["Golaknath Case", "Kesavananda Bharati Case", "Minerva Mills Case", "Maneka Gandhi Case"],
+    "answer": "Kesavananda Bharati Case"
+  },
+  {
+    "id": 5,
+    "question": "Which article of the Constitution deals with the Right to Equality?",
+    "options": ["Article 12", "Article 14", "Article 19", "Article 21"],
+    "answer": "Article 14"
+  },
+  {
+    "id": 6,
+    "question": "Who presides over the Rajya Sabha?",
+    "options": ["President", "Prime Minister", "Vice President", "Speaker"],
+    "answer": "Vice President"
+  },
+  {
+    "id": 7,
+    "question": "Which schedule of the Indian Constitution contains the list of recognised languages?",
+    "options": ["6th Schedule", "7th Schedule", "8th Schedule", "9th Schedule"],
+    "answer": "8th Schedule"
+  },
+  {
+    "id": 8,
+    "question": "The term 'Secular' was added to the Preamble by which amendment?",
+    "options": ["42nd Amendment", "44th Amendment", "52nd Amendment", "86th Amendment"],
+    "answer": "42nd Amendment"
+  },
+  {
+    "id": 9,
+    "question": "The minimum age to become the Prime Minister of India is?",
+    "options": ["21 years", "25 years", "30 years", "35 years"],
+    "answer": "25 years"
+  },
+  {
+    "id": 10,
+    "question": "Article 370 was related to which state/region?",
+    "options": ["Sikkim", "Nagaland", "Jammu and Kashmir", "Mizoram"],
+    "answer": "Jammu and Kashmir"
+  }
+]
